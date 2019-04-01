@@ -19,7 +19,7 @@ export default {
 <style scoped>
 #header {
   width: 100%;
-  height: 100%;
+  height: 50px;
   color: #fff;
   background-color: #e54847;
   border-bottom: 1px solid #e54847;
@@ -34,6 +34,7 @@ export default {
 #header i {
   position: absolute;
   left: 5px;
+  top: 50%;
   margin-top: -13px;
   font-size: 26px;
 }

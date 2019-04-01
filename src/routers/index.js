@@ -18,5 +18,10 @@ export default new Router({
     movieRouter,
     cinemaRouter,
     mineRouter,
+    //默认路由跳转到电影
+    {
+      path: '/*',
+      redirect: '/movie'
+    }
   ]
 })

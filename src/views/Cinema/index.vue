@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div id="main">
     <Header title="喵喵影院"/>
     <TabBar/>
   </div>
@@ -20,5 +20,5 @@ export default {
 };
 </script>
 
-<style>
+<style scoped>
 </style>
