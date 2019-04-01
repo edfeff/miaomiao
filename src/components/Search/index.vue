@@ -2,37 +2,25 @@
   <div class="search_body">
     <div class="search_input">
       <div class="search_input_wrapper">
-        <i class="iconfont icon-database"></i>
-        <input type="text">
+        <i class="iconfont icon-sousuo"></i>
+        <input type="text" v-model="message">
       </div>
     </div>
     <div class="search_result">
-      <h3>搜索结果</h3>
+      <h3>电影/电视剧/综艺</h3>
       <ul>
         <li>
           <div class="img">
-            <img src="/images/img1.jpg" alt>
+            <img src="/images/img2.jpg">
           </div>
           <div class="info">
             <p>
-              <span>哇哇哇哇</span>5.5
+              <span>无名之辈</span>
+              <span>8.5</span>
             </p>
-            <p>1111111</p>
-            <p>222222</p>
-            <p>333333</p>
-          </div>
-        </li>
-        <li>
-          <div class="img">
-            <img src="/images/img2.jpg" alt>
-          </div>
-          <div class="info">
-            <p>
-              <span>哇哇哇哇</span>5.5
-            </p>
-            <p>1111111</p>
-            <p>222222</p>
-            <p>333333</p>
+            <p>A Cool Fish</p>
+            <p>剧情,喜剧,犯罪</p>
+            <p>2018-11-16</p>
           </div>
         </li>
       </ul>
@@ -56,13 +44,13 @@ export default {
   background-color: #f5f5f5;
   border-bottom: 1px solid #e5e5e5;
 }
-
 .search_body .search_input_wrapper {
   padding: 0 10px;
   border: 1px solid #e6e6e6;
   border-radius: 5px;
   background-color: #fff;
-  display: block;
+  display: flex;
+  line-height: 20px;
 }
 .search_body .search_input_wrapper i {
   font-size: 16px;
@@ -71,10 +59,11 @@ export default {
 .search_body .search_input_wrapper input {
   border: none;
   font-size: 13px;
-  color: #ccc;
+  color: #333;
   padding: 4px 0;
   outline: none;
-  margin-left: 10px;
+  margin-left: 5px;
+  width: 100%;
 }
 .search_body .search_result h3 {
   font-size: 15px;
@@ -83,15 +72,14 @@ export default {
   border-bottom: 1px solid #e6e6e6;
 }
 .search_body .search_result li {
-  border-bottom: 1px solid #c9c9c9;
-  padding: 9px 15px;
+  border-bottom: 1px #c9c9c9 dashed;
+  padding: 10px 15px;
   box-sizing: border-box;
   display: flex;
 }
 .search_body .search_result .img {
-  /* width: 100%; */
-  width: 64px;
-  height: 90px;
+  width: 60px;
+  float: left;
 }
 .search_body .search_result .img img {
   width: 100%;

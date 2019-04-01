@@ -3,145 +3,91 @@
     <ul>
       <li>
         <div class="pic_show">
-          <img src="/images/img1.jpg" alt>
+          <img src="/images/img1.jpg">
         </div>
         <div class="info_list">
-          <h2>绿皮书</h2>
+          <h2>无名之辈</h2>
           <p>
-            观众评：
+            观众评
             <span class="grade">9.2</span>
           </p>
-          <p>
-            主演：
-            <span>网红给，任务的，任我行</span>
-          </p>
-          <p>今日55家影院放映了600场</p>
+          <p>主演: 陈建斌,任素汐,潘斌龙</p>
+          <p>今天55家影院放映607场</p>
         </div>
         <div class="btn_mall">购票</div>
       </li>
       <li>
         <div class="pic_show">
-          <img src="/images/img2.jpg" alt>
+          <img src="/images/img2.jpg">
         </div>
         <div class="info_list">
-          <h2>黑皮书</h2>
+          <h2>无名之辈</h2>
           <p>
-            观众评：
+            观众评
             <span class="grade">9.2</span>
           </p>
-          <p>
-            主演：
-            <span>网红给，任务的，任我行</span>
-          </p>
-          <p>今日55家影院放映了600场</p>
+          <p>主演: 陈建斌,任素汐,潘斌龙</p>
+          <p>今天55家影院放映607场</p>
         </div>
         <div class="btn_mall">购票</div>
       </li>
       <li>
         <div class="pic_show">
-          <img src="/images/img1.jpg" alt>
+          <img src="/images/img1.jpg">
         </div>
         <div class="info_list">
-          <h2>绿皮书</h2>
+          <h2>无名之辈</h2>
           <p>
-            观众评：
+            观众评
             <span class="grade">9.2</span>
           </p>
-          <p>
-            主演：
-            <span>网红给，任务的，任我行</span>
-          </p>
-          <p>今日55家影院放映了600场</p>
+          <p>主演: 陈建斌,任素汐,潘斌龙</p>
+          <p>今天55家影院放映607场</p>
         </div>
         <div class="btn_mall">购票</div>
       </li>
       <li>
         <div class="pic_show">
-          <img src="/images/img2.jpg" alt>
+          <img src="/images/img2.jpg">
         </div>
         <div class="info_list">
-          <h2>黑皮书</h2>
+          <h2>无名之辈</h2>
           <p>
-            观众评：
+            观众评
             <span class="grade">9.2</span>
           </p>
-          <p>
-            主演：
-            <span>网红给，任务的，任我行</span>
-          </p>
-          <p>今日55家影院放映了600场</p>
+          <p>主演: 陈建斌,任素汐,潘斌龙</p>
+          <p>今天55家影院放映607场</p>
         </div>
         <div class="btn_mall">购票</div>
       </li>
       <li>
         <div class="pic_show">
-          <img src="/images/img1.jpg" alt>
+          <img src="/images/img1.jpg">
         </div>
         <div class="info_list">
-          <h2>绿皮书</h2>
+          <h2>无名之辈</h2>
           <p>
-            观众评：
+            观众评
             <span class="grade">9.2</span>
           </p>
-          <p>
-            主演：
-            <span>网红给，任务的，任我行</span>
-          </p>
-          <p>今日55家影院放映了600场</p>
+          <p>主演: 陈建斌,任素汐,潘斌龙</p>
+          <p>今天55家影院放映607场</p>
         </div>
         <div class="btn_mall">购票</div>
       </li>
       <li>
         <div class="pic_show">
-          <img src="/images/img2.jpg" alt>
+          <img src="/images/img2.jpg">
         </div>
         <div class="info_list">
-          <h2>黑皮书</h2>
+          <h2>无名之辈</h2>
           <p>
-            观众评：
+            观众评
             <span class="grade">9.2</span>
           </p>
-          <p>
-            主演：
-            <span>网红给，任务的，任我行</span>
-          </p>
-          <p>今日55家影院放映了600场</p>
-        </div>
-        <div class="btn_mall">购票</div>
-      </li>
-      <li>
-        <div class="pic_show">
-          <img src="/images/img1.jpg" alt>
-        </div>
-        <div class="info_list">
-          <h2>绿皮书</h2>
-          <p>
-            观众评：
-            <span class="grade">9.2</span>
-          </p>
-          <p>
-            主演：
-            <span>网红给，任务的，任我行</span>
-          </p>
-          <p>今日55家影院放映了600场</p>
-        </div>
-        <div class="btn_mall">购票</div>
-      </li>
-      <li>
-        <div class="pic_show">
-          <img src="/images/img2.jpg" alt>
-        </div>
-        <div class="info_list">
-          <h2>黑皮书</h2>
-          <p>
-            观众评：
-            <span class="grade">9.2</span>
-          </p>
-          <p>
-            主演：
-            <span>网红给，任务的，任我行</span>
-          </p>
-          <p>今日55家影院放映了600场</p>
+          <p>主演: 陈建斌,任素汐,潘斌龙</p>
+          <p>今天55家影院放映607场</p>
         </div>
         <div class="btn_mall">购票</div>
       </li>
@@ -175,7 +121,6 @@ export default {
   width: 64px;
   height: 90px;
 }
-
 .movie_body .pic_show img {
   width: 100%;
 }
@@ -189,6 +134,8 @@ export default {
   line-height: 24px;
   width: 150px;
   overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
 }
 .movie_body .info_list p {
   font-size: 13px;
@@ -206,7 +153,7 @@ export default {
 }
 .movie_body .info_list img {
   width: 50px;
-  position: absulote;
+  position: absolute;
   right: 10px;
   top: 5px;
 }
@@ -220,8 +167,14 @@ export default {
   color: #fff;
   border-radius: 4px;
   font-size: 12px;
+  cursor: pointer;
 }
 .movie_body .btn_pre {
   background-color: #3c9fe6;
+}
+.movie_body .pullDown {
+  margin: 0;
+  padding: 0;
+  border: none;
 }
 </style>

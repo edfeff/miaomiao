@@ -3,113 +3,85 @@
     <ul>
       <li>
         <div class="pic_show">
-          <img src="/images/img1.jpg" alt>
+          <img src="/images/img2.jpg">
         </div>
         <div class="info_list">
-          <h2>wwww</h2>
+          <h2>无名之辈</h2>
           <p>
-            <span class="person">2223</span>人想看
+            <span class="person">17746</span> 人想看
           </p>
-          <p>主演:111，33，4，5</p>
-          <p>2018-12-23上映</p>
+          <p>主演: 陈建斌,任素汐,潘斌龙</p>
+          <p>2018-11-30上映</p>
         </div>
         <div class="btn_pre">预售</div>
       </li>
       <li>
         <div class="pic_show">
-          <img src="/images/img2.jpg" alt>
+          <img src="/images/img1.jpg">
         </div>
         <div class="info_list">
-          <h2>wwww</h2>
+          <h2>无名之辈</h2>
           <p>
-            <span class="person">2223</span>人想看
+            <span class="person">17746</span> 人想看
           </p>
-          <p>主演:111，33，4，5</p>
-          <p>2018-12-23上映</p>
+          <p>主演: 陈建斌,任素汐,潘斌龙</p>
+          <p>2018-11-30上映</p>
+        </div>
+        <div class="btn_pre">预售</div>
+      </li>
+          <li>
+        <div class="pic_show">
+          <img src="/images/img2.jpg">
+        </div>
+        <div class="info_list">
+          <h2>无名之辈</h2>
+          <p>
+            <span class="person">17746</span> 人想看
+          </p>
+          <p>主演: 陈建斌,任素汐,潘斌龙</p>
+          <p>2018-11-30上映</p>
         </div>
         <div class="btn_pre">预售</div>
       </li>
       <li>
         <div class="pic_show">
-          <img src="/images/img1.jpg" alt>
+          <img src="/images/img1.jpg">
         </div>
         <div class="info_list">
-          <h2>wwww</h2>
+          <h2>无名之辈</h2>
           <p>
-            <span class="person">2223</span>人想看
+            <span class="person">17746</span> 人想看
           </p>
-          <p>主演:111，33，4，5</p>
-          <p>2018-12-23上映</p>
+          <p>主演: 陈建斌,任素汐,潘斌龙</p>
+          <p>2018-11-30上映</p>
+        </div>
+        <div class="btn_pre">预售</div>
+      </li>
+          <li>
+        <div class="pic_show">
+          <img src="/images/img2.jpg">
+        </div>
+        <div class="info_list">
+          <h2>无名之辈</h2>
+          <p>
+            <span class="person">17746</span> 人想看
+          </p>
+          <p>主演: 陈建斌,任素汐,潘斌龙</p>
+          <p>2018-11-30上映</p>
         </div>
         <div class="btn_pre">预售</div>
       </li>
       <li>
         <div class="pic_show">
-          <img src="/images/img2.jpg" alt>
+          <img src="/images/img1.jpg">
         </div>
         <div class="info_list">
-          <h2>wwww</h2>
+          <h2>无名之辈</h2>
           <p>
-            <span class="person">2223</span>人想看
+            <span class="person">17746</span> 人想看
           </p>
-          <p>主演:111，33，4，5</p>
-          <p>2018-12-23上映</p>
-        </div>
-        <div class="btn_pre">预售</div>
-      </li>
-      <li>
-        <div class="pic_show">
-          <img src="/images/img1.jpg" alt>
-        </div>
-        <div class="info_list">
-          <h2>wwww</h2>
-          <p>
-            <span class="person">2223</span>人想看
-          </p>
-          <p>主演:111，33，4，5</p>
-          <p>2018-12-23上映</p>
-        </div>
-        <div class="btn_pre">预售</div>
-      </li>
-      <li>
-        <div class="pic_show">
-          <img src="/images/img2.jpg" alt>
-        </div>
-        <div class="info_list">
-          <h2>wwww</h2>
-          <p>
-            <span class="person">2223</span>人想看
-          </p>
-          <p>主演:111，33，4，5</p>
-          <p>2018-12-23上映</p>
-        </div>
-        <div class="btn_pre">预售</div>
-      </li>
-      <li>
-        <div class="pic_show">
-          <img src="/images/img1.jpg" alt>
-        </div>
-        <div class="info_list">
-          <h2>wwww</h2>
-          <p>
-            <span class="person">2223</span>人想看
-          </p>
-          <p>主演:111，33，4，5</p>
-          <p>2018-12-23上映</p>
-        </div>
-        <div class="btn_pre">预售</div>
-      </li>
-      <li>
-        <div class="pic_show">
-          <img src="/images/img2.jpg" alt>
-        </div>
-        <div class="info_list">
-          <h2>wwww</h2>
-          <p>
-            <span class="person">2223</span>人想看
-          </p>
-          <p>主演:111，33，4，5</p>
-          <p>2018-12-23上映</p>
+          <p>主演: 陈建斌,任素汐,潘斌龙</p>
+          <p>2018-11-30上映</p>
         </div>
         <div class="btn_pre">预售</div>
       </li>
@@ -143,7 +115,6 @@ export default {
   width: 64px;
   height: 90px;
 }
-
 .movie_body .pic_show img {
   width: 100%;
 }
@@ -157,6 +128,8 @@ export default {
   line-height: 24px;
   width: 150px;
   overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
 }
 .movie_body .info_list p {
   font-size: 13px;
@@ -174,7 +147,7 @@ export default {
 }
 .movie_body .info_list img {
   width: 50px;
-  position: absulote;
+  position: absolute;
   right: 10px;
   top: 5px;
 }
@@ -188,6 +161,7 @@ export default {
   color: #fff;
   border-radius: 4px;
   font-size: 12px;
+  cursor: pointer;
 }
 .movie_body .btn_pre {
   background-color: #3c9fe6;
